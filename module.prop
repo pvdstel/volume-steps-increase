@@ -1,7 +1,7 @@
 id=template
-name=Template Module
-version=v1
-versionCode=1
-author=topjohnwu
-description=A short description
+name=Volume steps increase
+version=v0.1
+versionCode=0.1
+author=pvdstel
+description=Increases the number of volume steps on Android, using Magisk 17+.
 minMagisk=17000
